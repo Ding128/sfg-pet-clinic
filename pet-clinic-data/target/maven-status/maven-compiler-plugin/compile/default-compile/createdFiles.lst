@@ -1,5 +1,5 @@
-guru/springframework/sfgpetclinic/model/PetType.class
-guru/springframework/sfgpetclinic/model/Person.class
-guru/springframework/sfgpetclinic/model/Pet.class
-guru/springframework/sfgpetclinic/model/Owner.class
-guru/springframework/sfgpetclinic/model/Vet.class
+sfgpetclinic/model/Vet.class
+sfgpetclinic/model/PetType.class
+sfgpetclinic/model/Pet.class
+sfgpetclinic/model/Person.class
+sfgpetclinic/model/Owner.class
